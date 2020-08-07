@@ -1,78 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fba42de9-74b3-43cc-8bdc-c41ae549c9b5" name="Default Changelist" comment="" />
+    <list default="true" id="fba42de9-74b3-43cc-8bdc-c41ae549c9b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql-connector-java-8.0.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/AddressBookInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddressBook.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AddressBook.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/AddressBook.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fgOPHOsnvOqVnpYWs8BSkjH0gK" />
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mysql-connector-java-8.0.21.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sreer\BridgeLabzSolutions\Stage1-Linux_Workshop\AddressBook" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="JdbcInsertDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.JdbcInsertDemo" />
+      <module name="AddressBook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdbcTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.JdbcTest" />
+      <module name="AddressBook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.company.AddressBook" />
       <module name="AddressBook" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
@@ -81,6 +85,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.JdbcTest" />
+      <item itemvalue="Application.JdbcInsertDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.JdbcTest" />
+        <item itemvalue="Application.JdbcInsertDemo" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -92,7 +108,63 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596636243773</updated>
+      <workItem from="1596636245555" duration="16082000" />
+      <workItem from="1596717308035" duration="10765000" />
+      <workItem from="1596790254062" duration="4382000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="35" y="0" key="#Project_Structure" timestamp="1596717872021">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="35" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1596717872021" />
+    <state x="347" y="59" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1596670785514">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="347" y="59" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1596670785514" />
+    <state x="347" y="48" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596718386256">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="347" y="48" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1596718386256" />
+    <state x="410" y="0" key="FileChooserDialogImpl" timestamp="1596717870134">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="410" y="0" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1596717870134" />
+    <state width="1311" height="327" key="GridCell.Tab.0.bottom" timestamp="1596792345875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="327" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596792345875" />
+    <state width="1311" height="327" key="GridCell.Tab.0.center" timestamp="1596792345875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="327" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596792345875" />
+    <state width="1311" height="327" key="GridCell.Tab.0.left" timestamp="1596792345875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="327" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596792345875" />
+    <state width="1311" height="327" key="GridCell.Tab.0.right" timestamp="1596792345875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="327" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596792345875" />
+    <state x="259" y="0" width="1037" height="728" key="NewModule_or_Project.wizard" timestamp="1596658912871">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="259" y="0" width="1037" height="728" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1596658912871" />
+    <state x="59" y="0" key="SettingsEditor" timestamp="1596665958435">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="59" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596665958435" />
+    <state x="347" y="67" key="extract.method.dialog" timestamp="1596722702151">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="347" y="67" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1596722702151" />
+    <state x="369" y="74" key="refactoring.ChangeSignatureDialog" timestamp="1596658518736">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="369" y="74" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1596658518736" />
   </component>
 </project>
